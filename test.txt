@@ -1,0 +1,3 @@
+Hello World
+
+created from Bash terminal using commands
